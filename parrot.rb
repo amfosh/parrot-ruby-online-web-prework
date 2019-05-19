@@ -2,4 +2,4 @@
 # returns the phrase
 def #parrot = says
 says = "Squawk!"
-end
+#parrot(says)
